@@ -1,0 +1,5 @@
+x = 8;
+y = 15;
+z = 22;
+sum = x + y + z;
+average = sum / 3;
